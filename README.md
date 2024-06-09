@@ -107,12 +107,12 @@ source ~/.omp_init
 ### Tested on
 
 + Windows 11
-+ macOS Sonoma 14.5 (Apple Silicone)
++ macOS Sonoma 14.5 (Apple Silicon)
 + Ubuntu (WSL)
 
 ### Nerd Fonts
 
-It is recommended to use a [Nerd Fonts](https://www.nerdfonts.com) font in your terminal emulator to display additional icons (for example: logos) in some OhMyPosh themes. You can download these [here](https://www.nerdfonts.com/font-downloads?ref=itsfoss.com).
+It is recommended to use a [Nerd Fonts](https://www.nerdfonts.com) font in your terminal emulator to display additional icons, such as: logos, in some OhMyPosh themes. You can download these [here](https://www.nerdfonts.com/font-downloads?ref=itsfoss.com).
 
 You can also install Nerd Fonts using Homebrew:
 
